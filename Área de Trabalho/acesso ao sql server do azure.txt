@@ -1,0 +1,13 @@
+Sql Server
+user: marinho
+password: lrmR0902
+
+https://zoom.us/j/182103256 
+
+Server=tcp:cadalunolrmr.database.windows.net,1433;Initial Catalog=cadalunodb;Persist Security Info=False;User ID=marinho;Password=lrmR0902;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+
+Conta maquina virtual
+
+user: marinho
+senha: luizricardo@0902
